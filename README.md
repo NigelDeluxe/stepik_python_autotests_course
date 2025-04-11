@@ -1,0 +1,1 @@
+Practical tasks for the python autotests course: https://stepik.org/course/575/info
